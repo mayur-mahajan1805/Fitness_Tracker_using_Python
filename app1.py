@@ -14,11 +14,13 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Title and description
-st.write("## PERSONAL FITNESS TRACKER...The Body Burner: Your Fitness, Your Formula")
+st.write("##🔥Body Burner: Your Fitness, Your Formula 🔥")
 st.write("""Welcome to Your Personal Fitness Tracker! 🏃‍♂️💪
-Track Your Fitness Journey with Data-Driven Insights.
-This app is designed to empower you on your fitness journey by providing personalized insights into how your body burns calories during exercise. By entering your personal parameters such as Age, Gender, BMI, Heart Rate, and Exercise Duration, you will receive accurate predictions about the calories burned during your workout. But that's not all!""")
-
+🚀 Track. Analyze. Transform. Your fitness journey starts here!
+This app is designed to empower you with data-driven insights into your workouts.
+With just a few personal details—Age, Gender, BMI, Heart Rate, and Exercise Duration
+You will get accurate calorie burn predictions tailored just for you""")
+st.write("Your fitness. Your data. Your success. Let's get started! 🚀👊")
 st.sidebar.header("User Input Parameters: ")
 
 # Function to collect user input
